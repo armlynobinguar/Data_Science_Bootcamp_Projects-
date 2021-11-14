@@ -1,2 +1,4 @@
 # Data-Science-Bootcamp-Projects-
-This repository contains the projects I completed throughout my Data Science bootcamp, which was financed by DataCamp and a 4-month scholarship award.
+This containts the DataCamp Projects I did last July 2021- October 2021. 
+Projects Finished: 31 
+
