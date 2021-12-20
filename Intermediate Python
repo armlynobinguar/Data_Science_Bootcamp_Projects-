@@ -17,3 +17,17 @@ plt.plot(year,pop)
 # Display the plot with plt.show()
 plt.show()
 
+Scatter Plot (1)
+When you have a time scale along the horizontal axis, the line plot is your friend. But in many other cases, when you're trying to assess if there's a correlation between two variables, for example, the scatter plot is the better choice. Below is an example of how to build a scatter plot.
+
+import matplotlib.pyplot as plt
+plt.scatter(x,y)
+plt.show()
+# Change the line plot below to a scatter plot
+plt.scatter(gdp_cap, life_exp)
+
+# Put the x-axis on a logarithmic scale. A correlation will become clear when you display the GDP per capita on a logarithmic scale. Add the line plt.xscale('log')
+plt.xscale('log')
+
+# Show plot
+plt.show()
